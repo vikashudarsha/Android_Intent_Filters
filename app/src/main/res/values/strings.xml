@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_Intent_Filters</string>
+    <string name="profile_btn_txt">Open Profile</string>
+</resources>
